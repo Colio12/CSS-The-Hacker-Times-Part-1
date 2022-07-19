@@ -21,6 +21,9 @@ h2, h4, h5 {
     width: 700px;
     border-radius: 10px;
     padding: 20px;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 
 h5 {
@@ -45,5 +48,22 @@ nav li {
     padding: 5px;
     margin: 0px;
 }
+/*End Nav Bar CSS*/
+
+main > img {
+    width: 100%
+}
+
+.more-articles > section {
+    display: inline-block;
+    width: 40%;
+    padding: 1.5em;
+}
+
+main {
+    border-bottom:1px solid #eee;
+    padding-bottom: 1em;
+}
+
 
 
